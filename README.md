@@ -131,27 +131,6 @@ The project therefore provides a foundation for combining **ETL + SQL + e-commer
 
 ---
 
-## Project Structure
-
-```text
-E-Commerce-Website-Performance-ETL-and-Analysis/
-│
-├── Dataset/
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── website_pageviews.csv
-│   ├── website_sessions.csv
-│   ├── order_item_refunds.json
-│   └── products.json
-│
-├── ETL Data Pipeline/
-│   ├── E-commerce ETL.ipynb
-│   └── etl_pipeline.sh
-│
-└── README.md
-```
-
----
 
 ## What I Learned
 
